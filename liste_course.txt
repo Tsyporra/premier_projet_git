@@ -1,1 +1,11 @@
-te
+- fromage
+- tomate
+- miel
+- sucre
+- pomme
+- lait
+- viande 
+- cornichons
+- PQ
+- gel douche
+
